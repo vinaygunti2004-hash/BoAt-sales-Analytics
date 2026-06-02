@@ -33,3 +33,4 @@ More real-world analysis.
 #PowerBI #DataAnalyst #SalesAnalysis
 #PowerBIDashboard
 #Kaggle
+<img width="1332" height="752" alt="Image" src="https://github.com/user-attachments/assets/2d442938-5f4e-46b8-b3a7-9d8b82dad22a" />
