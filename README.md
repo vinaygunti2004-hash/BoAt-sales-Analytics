@@ -1,4 +1,4 @@
-# 🚤 boAt Sales Analytics Dashboard | Power BI
+# boAt Sales Analytics Dashboard | Power BI
 ## 📊 Project Overview
 This project presents an interactive **boAt Sales Analytics Dashboard** developed using **Microsoft Power BI**. The dashboard provides valuable insights into sales performance, profitability, customer behavior, and product trends through dynamic visualizations and business intelligence techniques.
 Using a Kaggle-based sales dataset, the dashboard transforms raw business data into meaningful insights that support data-driven decision-making.
